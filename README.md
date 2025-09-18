@@ -14,7 +14,7 @@ Hello! I'm a budding programmer diving into the world of C and Python. I'm excit
 
 - **Languages:**
   - C
-  -java
+  - java
   - Python
 - **Tools:**
   - Git
