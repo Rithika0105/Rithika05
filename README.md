@@ -6,7 +6,7 @@ Hello! I'm a budding programmer diving into the world of C and Python. I'm excit
 
 ## 📚 About Me
 
-- 🌱 Currently learning **C** and **Python** to enhance my programming skills.
+- 🌱 Currently learning **C**,**Java** and **Python** to enhance my programming skills.
 - 💻 Passionate about exploring algorithms, data structures, and software development.
 - 🚀 Eager to learn and apply new concepts through practical projects.
 
@@ -14,6 +14,7 @@ Hello! I'm a budding programmer diving into the world of C and Python. I'm excit
 
 - **Languages:**
   - C
+  -java
   - Python
 - **Tools:**
   - Git
